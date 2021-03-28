@@ -5,7 +5,7 @@ This is project of a Github Scraping made with Python.
 ## Notes :books:
 - Python programming to train skills.
 
-## Image
+## Image :camera:
 ![photo](https://user-images.githubusercontent.com/52220244/112770333-af450a00-8ffc-11eb-87d5-e8a3e9954858.JPG)
 
 ## How Install :bookmark_tabs:
