@@ -19,7 +19,7 @@ git clone https://github.com/BieAnimaton/Github-Scraping
 pip install requests, bs4.
 
 # To start
-python github scraping program.py <github nickname>
+python "scraping program.py" <github nickname>
 
 # The project messages will appear on console
 ```
