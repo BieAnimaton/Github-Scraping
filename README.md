@@ -25,6 +25,6 @@ python "scraping program.py" <github nickname>
 ```
 
 ## Features :hammer_and_wrench:
-- Python 2.7
+- Python 2.7 -- 3.7
 - requests
 - BeautifulSoup (bs4)
