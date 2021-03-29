@@ -1,6 +1,6 @@
 # Github Scraping
 
-This is project of a Github Scraping to get basic information about specific user.
+This project gets basic information about specific user.
 
 ## Notes :books:
 - Python programming to train skills.
